@@ -24,8 +24,8 @@ conduttore e argomenti, o **parlare** col microfono.
 
 ## Dove si guarderà
 
-Browser web, smart TV Samsung e LG, Android TV e Google TV, Apple TV, app
-Android e iPhone. Il telefono potrà fare da telecomando con microfono.
+Browser web, smart TV Samsung e LG, Android TV e Google TV, Amazon Fire TV,
+Apple TV, app Android e iPhone. Il telefono potrà fare da telecomando con microfono.
 
 ## Questo repository
 
